@@ -1,0 +1,20 @@
+.perfect-center {
+  /* Can giua cho the con theo chieu doc va ngang */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.btn-header {
+  width: 40px;
+  height: 40px;
+  margin-right: 8px;
+}
+
+.icon-header {
+  width: 24px;
+  height: 24px;
+  display: block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  opacity: .6;
+}
